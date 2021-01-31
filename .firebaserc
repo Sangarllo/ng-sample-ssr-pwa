@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sample-ssr-pwa": {
+      "hosting": {
+        "ng-sample-SSR-PWA": [
+          "sample-ssr-pwa"
+        ]
+      }
+    }
+  }
+}
